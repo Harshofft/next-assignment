@@ -15,7 +15,7 @@ export default function Home() {
             {/* header */}
             <div className="w-[1128px] h-[93px]  flex flex-col justify-between  bg-[#FFFFFF] ">
               <div className="px-[24px] pt-[20px] h-[72px] w-[1128px] "><Image src={img1} alt="img" className="h-[72px] mb-[7px]  "/> </div>
-              <div className="border-b-[1px] border-[#fcfcfd] mt-[5px]"></div>
+              <div className="border-b-[1px] border-[#fcfcfd] "></div>
             </div>
             {/* table */}
             <DocumentTable />
